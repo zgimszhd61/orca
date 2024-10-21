@@ -8,8 +8,11 @@ from threading import Thread
 from time import sleep
 
 from litellm import completion, supports_function_calling
+from litellm import set_verbose
 
-MODEL_NAME = os.environ.get('LITELLM_MODEL', 'gpt-4o')
+MODEL_NAME = os.environ.get('LITELLM_MODEL', 'gpt-4o-mini')
+
+set_verbose = True
 
 app = Flask(__name__)
 

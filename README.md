@@ -92,6 +92,6 @@ orca 是一个运行方便的工具，可以通过无代码界面，从简单的
   python main.py
   ```
 
-贡献
-
-这个项目目前只是一步的探索，无计划进行进一步开发。欢迎贡献，尤其是有意思的应用作品，但我不常检查 PR，可以先给我发私信通知。
+## 例子：
+ - 创建一个最简单的Flask应用，输出hello world，只有一个端口/hello
+ - 创建一个最简单的Flask应用，有两个端口/helloa和hellob，其中/helloa输出helloa，/hellob输出hellob.
