@@ -21,7 +21,7 @@ orca 是一个运行方便的工具，可以通过无代码界面，从简单的
 1. 克隆仓库
 
    ```bash
-   git clone https://github.com/zgimszhd61/orca
+   git clone https://github.com/zgimszhd61/simplest-self-refine-code-agent.git
    cd orca
    ```
 
