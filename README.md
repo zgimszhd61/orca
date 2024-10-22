@@ -65,7 +65,7 @@ simplest-self-refine-code-agent 需要在环境中配置 `OPENAI_API_KEY`。有�
 
 1. **运行应用**：
    ```bash
-   python main_web_cn.py
+   python main.py
    ```
 
 2. **访问网页界面**：
@@ -80,7 +80,7 @@ simplest-self-refine-code-agent 需要在环境中配置 `OPENAI_API_KEY`。有�
 5. **查看生成的应用**：
    生成完成后，可以再次运行 Flask 应用，与新生成的应用进行交互：
    ```bash
-   python main_web_cn.py
+   python main.py
    ```
 
 ## 参考示例
