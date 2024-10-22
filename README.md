@@ -4,7 +4,9 @@
 
 simplest-self-refine-code-agent - 最简单的自动建设编码代理。
 
-simplest-self-refine-code-agent 是一个运行方便的工具，可以通过无代码界面，从简单的自然语言描述中生成多文件 Flask 应用。应用一些简单的 LLM 循环和少数工具，orca 自动化了编码过程，将想法转化为功能性的网页应用。
+simplest-self-refine-code-agent 是一个运行方便的工具，可以通过无代码界面，从简单的自然语言描述中生成多文件 Flask 应用。应用一些简单的 LLM 循环和少数工具，
+
+simplest-self-refine-code-agent 自动化了编码过程，将想法转化为功能性的网页应用。
 
 功能特性
 - 简单的自然语言输入：只需用纯粹的英语描述想要构建的应用。
