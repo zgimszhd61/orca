@@ -1,8 +1,4 @@
-# simplest-self-refine-code-agent
-
-版权声明
-
-simplest-self-refine-code-agent - 最简单的自动建设编码代理。
+# simplest-self-refine-code-agent - 最简单的自动建设编码代理。
 
 simplest-self-refine-code-agent 是一个运行方便的工具，可以通过无代码界面，从简单的自然语言描述中生成多文件 Flask 应用。应用一些简单的 LLM 循环和少数工具，
 
