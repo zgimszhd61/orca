@@ -92,7 +92,7 @@ simplest-self-refine-code-agent 自动化了编码过程，将想法转化为功
 - 查看生成的应用
   进程完成后，可再次运行 Flask 应用，互动与新生成的 Flask 应用：
   ```bash
-  python main.py
+  python main_web_cn.py
   ```
 
 ## 参考例子：
