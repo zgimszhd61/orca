@@ -1,9 +1,10 @@
-# orca
+# simplest-self-refine-code-agent
+
 版权声明
 
-orca - 最简单的自动建设编码代理。
+simplest-self-refine-code-agent - 最简单的自动建设编码代理。
 
-orca 是一个运行方便的工具，可以通过无代码界面，从简单的自然语言描述中生成多文件 Flask 应用。应用一些简单的 LLM 循环和少数工具，orca 自动化了编码过程，将想法转化为功能性的网页应用。
+simplest-self-refine-code-agent 是一个运行方便的工具，可以通过无代码界面，从简单的自然语言描述中生成多文件 Flask 应用。应用一些简单的 LLM 循环和少数工具，orca 自动化了编码过程，将想法转化为功能性的网页应用。
 
 功能特性
 - 简单的自然语言输入：只需用纯粹的英语描述想要构建的应用。
@@ -95,6 +96,8 @@ orca 是一个运行方便的工具，可以通过无代码界面，从简单的
 ## 参考例子：
  - 创建一个最简单的Flask应用，输出hello world，只有一个端口/hello
  - 创建一个最简单的Flask应用，有两个端口/helloa和hellob，其中/helloa输出helloa，/hellob输出hellob.
+
+## 然后重启（点刷新也可以），就可以使用新的route入口。
 
 
 ## 其他实验中的Prompt
