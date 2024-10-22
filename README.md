@@ -77,7 +77,7 @@ simplest-self-refine-code-agent 自动化了编码过程，将想法转化为功
 
 - 运行应用
   ```bash
-  python main.py
+  python main_web_cn.py
   ```
 
 - 访问网页界面
